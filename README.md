@@ -2,13 +2,13 @@
 
 Windows app by **Jayden O'Grady**. You type a rough idea. Prompter interviews you, then compiles a prompt you paste into another AI (Cursor, Claude, ChatGPT, and so on). It is a prompt compiler, not a chatbot — it will not answer the idea in this window.
 
-Current build: **0.2.4**. Download it from [Releases](https://github.com/JayzoMods/Prompter-Release/releases). This repository holds release artifacts only — not the application source.
+Current build: **0.2.5**. Download it from [Releases](https://github.com/JayzoMods/Prompter-Release/releases). This repository holds release artifacts only — not the application source.
 
 ## What to run
 
-Install **`Prompter-0.2.4-win-x64.exe`** (NSIS installer). You can choose a folder; it adds Start Menu and desktop shortcuts.
+Install **`Prompter-0.2.5-win-x64.exe`** (NSIS installer). You can choose a folder; it adds Start Menu and desktop shortcuts.
 
-The zip **`Prompter-0.2.4-win-x64.zip`** is fine if you prefer to unpack a folder.
+The zip **`Prompter-0.2.5-win-x64.zip`** is fine if you prefer to unpack a folder.
 
 Do **not** run `Prompter.exe` from a `win-unpacked` folder on its own, and do **not** use the `*-portable.exe` build. Those are eaten by Windows Defender on some PCs.
 
